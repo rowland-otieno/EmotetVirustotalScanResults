@@ -1,0 +1,10 @@
+ "url": "http://200.32.61.210/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://200.32.61.210/"}
+ "Spamhaus": {"detected": true, "result": "malicious site"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Dr.Web": {"detected": true, "result": "malicious site"}
+ "CRDF": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Sophos": {"detected": true, "result": "malicious site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

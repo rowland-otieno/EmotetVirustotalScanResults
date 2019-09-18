@@ -1,0 +1,8 @@
+ "url": "http://176.31.200.130/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://176.31.200.130/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "CRDF": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Sophos": {"detected": true, "result": "malicious site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

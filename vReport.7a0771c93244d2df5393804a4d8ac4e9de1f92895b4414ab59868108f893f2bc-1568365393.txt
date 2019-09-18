@@ -1,0 +1,9 @@
+ "url": "http://189.209.217.49/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://189.209.217.49/"}
+ "Spamhaus": {"detected": true, "result": "malicious site"}
+ "Kaspersky": {"detected": true, "result": "malware site"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Dr.Web": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

@@ -1,0 +1,6 @@
+ "url": "http://144.139.247.220/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://144.139.247.220/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

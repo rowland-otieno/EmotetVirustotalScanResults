@@ -1,0 +1,8 @@
+ "url": "http://45.32.158.232/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://45.32.158.232/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Sophos": {"detected": true, "result": "malicious site"}
+ "Fortinet": {"detected": true, "result": "malware site"}
+ "ZeroCERT": {"detected": true, "result": "malicious site"}

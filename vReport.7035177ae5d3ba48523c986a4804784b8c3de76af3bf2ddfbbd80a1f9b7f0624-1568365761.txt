@@ -1,0 +1,8 @@
+ "url": "http://217.113.27.158/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://217.113.27.158/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Dr.Web": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Sophos": {"detected": true, "result": "malicious site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

@@ -1,0 +1,7 @@
+ "url": "http://187.162.62.135/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://187.162.62.135/"}
+ "Kaspersky": {"detected": true, "result": "malware site"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

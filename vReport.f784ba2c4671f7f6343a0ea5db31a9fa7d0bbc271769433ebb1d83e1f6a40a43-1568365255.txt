@@ -1,0 +1,8 @@
+ "url": "http://125.99.61.162/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://125.99.61.162/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "CRDF": {"detected": true, "result": "malicious site"}
+ "CyRadar": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

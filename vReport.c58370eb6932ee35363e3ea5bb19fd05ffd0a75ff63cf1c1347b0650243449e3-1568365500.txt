@@ -1,0 +1,4 @@
+ "url": "http://198.50.170.27/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://198.50.170.27/"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

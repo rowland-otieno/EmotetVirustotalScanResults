@@ -1,0 +1,10 @@
+ "url": "http://159.89.179.87/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://159.89.179.87/"}
+ "Kaspersky": {"detected": true, "result": "malware site"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "CRDF": {"detected": true, "result": "malicious site"}
+ "CyRadar": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Sophos": {"detected": true, "result": "malicious site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

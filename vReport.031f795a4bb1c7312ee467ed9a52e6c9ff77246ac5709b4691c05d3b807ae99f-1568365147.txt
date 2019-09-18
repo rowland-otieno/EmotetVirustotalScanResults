@@ -1,0 +1,7 @@
+ "url": "http://213.120.104.180/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://213.120.104.180/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Sophos": {"detected": true, "result": "malicious site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

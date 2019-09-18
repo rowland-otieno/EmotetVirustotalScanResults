@@ -1,0 +1,7 @@
+ "url": "http://183.82.97.25/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://183.82.97.25/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "CRDF": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

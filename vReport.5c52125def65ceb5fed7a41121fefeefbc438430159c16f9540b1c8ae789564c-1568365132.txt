@@ -1,0 +1,8 @@
+ "url": "http://88.215.2.29/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://88.215.2.29/"}
+ "Kaspersky": {"detected": true, "result": "malware site"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Dr.Web": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

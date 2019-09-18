@@ -1,0 +1,6 @@
+ "url": "http://104.131.58.132/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://104.131.58.132/"}
+ "Kaspersky": {"detected": true, "result": "malware site"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

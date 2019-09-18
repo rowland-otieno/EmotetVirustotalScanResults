@@ -1,0 +1,8 @@
+ "url": "http://41.220.119.246/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://41.220.119.246/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "Dr.Web": {"detected": true, "result": "malicious site"}
+ "CRDF": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

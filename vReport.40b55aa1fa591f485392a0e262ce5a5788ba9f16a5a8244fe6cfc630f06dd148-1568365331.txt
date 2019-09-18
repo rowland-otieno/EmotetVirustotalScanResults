@@ -1,0 +1,5 @@
+ "url": "http://182.180.92.102/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://182.180.92.102/"}
+ "Dr.Web": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

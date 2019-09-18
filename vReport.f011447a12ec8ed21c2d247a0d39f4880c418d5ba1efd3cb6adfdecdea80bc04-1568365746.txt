@@ -1,0 +1,7 @@
+ "url": "http://190.230.60.129/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://190.230.60.129/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "CyRadar": {"detected": true, "result": "malicious site"}
+ "Forcepoint ThreatSeeker": {"detected": true, "result": "malicious site"}
+ "ESET": {"detected": true, "result": "malware site"}
+ "Fortinet": {"detected": true, "result": "malware site"}

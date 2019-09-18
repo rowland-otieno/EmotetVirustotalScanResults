@@ -1,0 +1,4 @@
+ "url": "http://66.228.32.31/"
+ "detail": "http://yandex.com/infected?l10n=en&url=http://66.228.32.31/"}
+ "BitDefender": {"detected": true, "result": "malware site"}
+ "ESET": {"detected": true, "result": "malware site"}
