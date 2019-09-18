@@ -1,2 +1,2 @@
 # EmotetVirustotalScanResults
-Emotet Virus Total Scan Results
+Emotet botnet IPs VirusTotal scan results
